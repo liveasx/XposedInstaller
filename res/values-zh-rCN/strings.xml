@@ -137,7 +137,7 @@
     <string name="settings_group_download">下载</string>
     <string name="settings_enable_downloads">启用下载</string>
     <string name="settings_enable_downloads_summary">允许 Xposed 安装器检查更新和新模块</string>
-    <string name="settings_release_type">将显示的版本</string>
+    <string name="settings_release_type">要显示的版本</string>
     <string name="settings_group_experimental">实验性</string>
     <string name="settings_disable_resources">禁用资源钩子</string>
     <string name="settings_disable_resources_summary">解决与主题引擎的冲突。\n<b>警告:</b> 启用这个选项将会导致修改资源的模块停止工作。</string>
@@ -163,8 +163,8 @@
     <string name="about_developers_label">主要开发者：</string>
     <string name="about_developers"><a href="http://forum.xda-developers.com/member.php?u=4419114">rovo89</a> 与 <a href="http://forum.xda-developers.com/member.php?u=4322181">Tungstwenty</a></string>
     <string name="about_developers_warning">请<b>不</b>要直接联系我们获取帮助，使用下面的链接。</string>
-    <string name="about_translator_label">翻译：</string>
-    <string name="translator">Cye3s, liveasx, orzFly</string>
+    <string name="about_translator_label">翻译人员：</string>
+    <string name="translator">Cye3s, Asx, orzFly</string>
     <string name="about_version_label">应用程序版本：</string>
     <string name="about_source_label">源码：</string>
     <string name="about_support_label">获取支持：</string>
